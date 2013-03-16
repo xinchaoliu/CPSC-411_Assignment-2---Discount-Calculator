@@ -18,6 +18,16 @@
 		0212105916F3B4D7005A7D4A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0212105816F3B4D7005A7D4A /* Default-568h@2x.png */; };
 		0212105C16F3B4D7005A7D4A /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0212105A16F3B4D7005A7D4A /* MainStoryboard.storyboard */; };
 		0212105F16F3B4D7005A7D4A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0212105E16F3B4D7005A7D4A /* ViewController.m */; };
+		0212106716F3B53E005A7D4A /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0212106616F3B53E005A7D4A /* SecondViewController.m */; };
+		0286923716F43BB500F2CDB4 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 0286923616F43BB500F2CDB4 /* README.txt */; };
+		0286923F16F4448E00F2CDB4 /* 01.initial screen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923916F4448E00F2CDB4 /* 01.initial screen.jpg */; };
+		0286924016F4448E00F2CDB4 /* 02.input data.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923A16F4448E00F2CDB4 /* 02.input data.jpg */; };
+		0286924116F4448E00F2CDB4 /* 03.shown the results.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923B16F4448E00F2CDB4 /* 03.shown the results.jpg */; };
+		0286924216F4448E00F2CDB4 /* 04.changing view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923C16F4448E00F2CDB4 /* 04.changing view.jpg */; };
+		0286924316F4448E00F2CDB4 /* 05.graph view.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923D16F4448E00F2CDB4 /* 05.graph view.jpg */; };
+		0286924416F4448E00F2CDB4 /* 06.missing price.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0286923E16F4448E00F2CDB4 /* 06.missing price.jpg */; };
+		02C725FE16F3C47D0089A68D /* DiscountCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C725FD16F3C47D0089A68D /* DiscountCalculator.m */; };
+		02C7260116F3DE1D0089A68D /* QuartzView.m in Sources */ = {isa = PBXBuildFile; fileRef = 02C7260016F3DE1D0089A68D /* QuartzView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +47,19 @@
 		0212105B16F3B4D7005A7D4A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		0212105D16F3B4D7005A7D4A /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0212105E16F3B4D7005A7D4A /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0212106516F3B53E005A7D4A /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		0212106616F3B53E005A7D4A /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		0286923616F43BB500F2CDB4 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		0286923916F4448E00F2CDB4 /* 01.initial screen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01.initial screen.jpg"; sourceTree = "<group>"; };
+		0286923A16F4448E00F2CDB4 /* 02.input data.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "02.input data.jpg"; sourceTree = "<group>"; };
+		0286923B16F4448E00F2CDB4 /* 03.shown the results.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "03.shown the results.jpg"; sourceTree = "<group>"; };
+		0286923C16F4448E00F2CDB4 /* 04.changing view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "04.changing view.jpg"; sourceTree = "<group>"; };
+		0286923D16F4448E00F2CDB4 /* 05.graph view.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "05.graph view.jpg"; sourceTree = "<group>"; };
+		0286923E16F4448E00F2CDB4 /* 06.missing price.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "06.missing price.jpg"; sourceTree = "<group>"; };
+		02C725FC16F3C47D0089A68D /* DiscountCalculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscountCalculator.h; sourceTree = "<group>"; };
+		02C725FD16F3C47D0089A68D /* DiscountCalculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscountCalculator.m; sourceTree = "<group>"; };
+		02C725FF16F3DE1D0089A68D /* QuartzView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuartzView.h; sourceTree = "<group>"; };
+		02C7260016F3DE1D0089A68D /* QuartzView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuartzView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +79,8 @@
 		0212103616F3B4D7005A7D4A = {
 			isa = PBXGroup;
 			children = (
+				0286923816F4448E00F2CDB4 /* snapshots */,
+				0286923616F43BB500F2CDB4 /* README.txt */,
 				0212104816F3B4D7005A7D4A /* Discount Calculator */,
 				0212104116F3B4D7005A7D4A /* Frameworks */,
 				0212104016F3B4D7005A7D4A /* Products */,
@@ -86,8 +111,14 @@
 				0212105116F3B4D7005A7D4A /* AppDelegate.h */,
 				0212105216F3B4D7005A7D4A /* AppDelegate.m */,
 				0212105A16F3B4D7005A7D4A /* MainStoryboard.storyboard */,
+				02C725FC16F3C47D0089A68D /* DiscountCalculator.h */,
+				02C725FD16F3C47D0089A68D /* DiscountCalculator.m */,
 				0212105D16F3B4D7005A7D4A /* ViewController.h */,
 				0212105E16F3B4D7005A7D4A /* ViewController.m */,
+				0212106516F3B53E005A7D4A /* SecondViewController.h */,
+				0212106616F3B53E005A7D4A /* SecondViewController.m */,
+				02C725FF16F3DE1D0089A68D /* QuartzView.h */,
+				02C7260016F3DE1D0089A68D /* QuartzView.m */,
 				0212104916F3B4D7005A7D4A /* Supporting Files */,
 			);
 			path = "Discount Calculator";
@@ -105,6 +136,19 @@
 				0212105816F3B4D7005A7D4A /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0286923816F4448E00F2CDB4 /* snapshots */ = {
+			isa = PBXGroup;
+			children = (
+				0286923916F4448E00F2CDB4 /* 01.initial screen.jpg */,
+				0286923A16F4448E00F2CDB4 /* 02.input data.jpg */,
+				0286923B16F4448E00F2CDB4 /* 03.shown the results.jpg */,
+				0286923C16F4448E00F2CDB4 /* 04.changing view.jpg */,
+				0286923D16F4448E00F2CDB4 /* 05.graph view.jpg */,
+				0286923E16F4448E00F2CDB4 /* 06.missing price.jpg */,
+			);
+			path = snapshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,6 +207,13 @@
 				0212105716F3B4D7005A7D4A /* Default@2x.png in Resources */,
 				0212105916F3B4D7005A7D4A /* Default-568h@2x.png in Resources */,
 				0212105C16F3B4D7005A7D4A /* MainStoryboard.storyboard in Resources */,
+				0286923716F43BB500F2CDB4 /* README.txt in Resources */,
+				0286923F16F4448E00F2CDB4 /* 01.initial screen.jpg in Resources */,
+				0286924016F4448E00F2CDB4 /* 02.input data.jpg in Resources */,
+				0286924116F4448E00F2CDB4 /* 03.shown the results.jpg in Resources */,
+				0286924216F4448E00F2CDB4 /* 04.changing view.jpg in Resources */,
+				0286924316F4448E00F2CDB4 /* 05.graph view.jpg in Resources */,
+				0286924416F4448E00F2CDB4 /* 06.missing price.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +227,9 @@
 				0212104F16F3B4D7005A7D4A /* main.m in Sources */,
 				0212105316F3B4D7005A7D4A /* AppDelegate.m in Sources */,
 				0212105F16F3B4D7005A7D4A /* ViewController.m in Sources */,
+				0212106716F3B53E005A7D4A /* SecondViewController.m in Sources */,
+				02C725FE16F3C47D0089A68D /* DiscountCalculator.m in Sources */,
+				02C7260116F3DE1D0089A68D /* QuartzView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +352,7 @@
 				0212106416F3B4D7005A7D4A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
